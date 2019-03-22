@@ -2,3 +2,8 @@ html{
     background-color: blueviolet;
     color: white;
 }
+
+.sample{
+    background-color: brown;
+    padding: 1em;
+}
